@@ -60,3 +60,22 @@ Files Used:
 ## Conclusion
 
 This project demonstrates how sentiment analysis can be used to understand customer opinions and social media trends using data visualization techniques.
+
+
+
+## Output Screenshots
+
+### Sentiment Distribution
+![Sentiment Distribution](sentiment_distribution.png)
+
+### Sentiment Share
+![Sentiment Share](sentiment_pie_chart.png)
+
+### Positive WordCloud
+![Positive WordCloud](positive_wordcloud.png)
+
+### Negative WordCloud
+![Negative WordCloud](negative_wordcloud.png)
+
+### Top Brands
+![Top Brands](top_brands.png)
